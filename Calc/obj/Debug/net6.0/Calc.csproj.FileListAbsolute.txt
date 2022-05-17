@@ -1,0 +1,12 @@
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\bin\Debug\net6.0\Calc.deps.json
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\bin\Debug\net6.0\Calc.dll
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\bin\Debug\net6.0\ref\Calc.dll
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\bin\Debug\net6.0\Calc.pdb
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.csproj.AssemblyReference.cache
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfoInputs.cache
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfo.cs
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.dll
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\ref\Calc.dll
+C:\Users\SP4RT4\Documents\B3 - Dev\C#\Calc-avec-console\Calc\Calc\obj\Debug\net6.0\Calc.pdb
